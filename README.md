@@ -1,2 +1,2 @@
 Landing Page
-URL: https://app.netlify.com/sites/courses-tz/configuration/general
+URL: https://courses-tz.netlify.app/
